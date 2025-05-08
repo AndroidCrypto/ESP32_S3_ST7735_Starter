@@ -67,7 +67,3 @@ The **regular setup file** has these pin settings:
 ## Important note
 
 You need to modify the display library TFT_eSPI to get the code to work. Please find instructions on how to do this in my forked TFT_eSPI repository here on GitHub: [https://github.com/AndroidCrypto/TFT_eSPI](https://github.com/AndroidCrypto/TFT_eSPI).
-
-[AndroidCrypto/TFT_eSPI](https://github.com/AndroidCrypto/TFT_eSPI).
-
-
